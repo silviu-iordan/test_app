@@ -1,3 +1,1 @@
-# README
-
-Complete Ruby on Rails Develloper 
+First test Repo for Complete course for Ruby on Rails
